@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/mahameddalmar20034-cpu/coderco-custom#readme",
   "dependencies": {
-    "@actions/core": "^3.0.1"
+    "@actions/core": "^1.10.0"
   }
 }
